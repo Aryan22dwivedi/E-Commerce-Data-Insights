@@ -35,8 +35,8 @@ Explore sales and customer data to derive **insights** on:
 
 The dataset used is a **CSV file** that simulates real e-commerce transactions. It contains the following attributes:
 
-| Column       | Description                                 |
-|--------------|---------------------------------------------|
+| Column       | Description                                  |
+|--------------|----------------------------------------------|
 | `InvoiceNo`  | Unique identifier for the transaction        |
 | `StockCode`  | Unique code representing the product         |
 | `Description`| Name of the product                          |
