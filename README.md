@@ -46,6 +46,7 @@ The dataset used is a **CSV file** that simulates real e-commerce transactions. 
 | `CustomerID` | Unique identifier for the customer           |
 | `Country`    | Customer’s country                           |
 | `TotalPrice` | Total revenue for the transaction (Qty × Price) |
+![image](https://github.com/user-attachments/assets/a35d0d9f-5c6d-4947-af6c-8ac05427084c)
 
 ---
 
@@ -67,6 +68,8 @@ The dataset used is a **CSV file** that simulates real e-commerce transactions. 
 | Revenue by Country     | Horizontal Bar    | Top countries contributing to revenue            |
 | Top Customers          | Bar Chart         | Highest-spending customers                       |
 | KPIs                   | Cards             | Total Revenue, Total Orders, Unique Customers    |
+
+![Power BI Desktop 04_07_2025 20_20_48](https://github.com/user-attachments/assets/ea841359-5ad3-4578-aa78-fe7470ce40cf)
 
 ---
 
